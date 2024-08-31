@@ -1,0 +1,21 @@
+{
+    "welcome": [
+      "Hey, nice to meet you! Thanks for following :)",
+      "Thank you for following me!",
+      "Hey, thanks for following! i hope you like my posts"
+    ],
+    "comment": [
+      "Thank you for the comment!"
+    ],
+    "thank": [
+      "Thank you for visiting my profile!"
+    ],
+    "engage": [
+      "Can i ask you an opinion?",
+      "Can i ask you something?"
+    ],
+    "doyoulike": [
+      "Do you like my posts?",
+      "What do you think of my posts?"
+    ]
+}
